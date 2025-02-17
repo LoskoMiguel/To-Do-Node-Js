@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "ejercicio de practica con node js",
+  "main": "agregar_tarea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoskoMiguel/To-Do-Node-Js.git"
+  },
+  "author": "Losko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoskoMiguel/To-Do-Node-Js/issues"
+  },
+  "homepage": "https://github.com/LoskoMiguel/To-Do-Node-Js#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

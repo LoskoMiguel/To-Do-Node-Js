@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Hacer Ejercicio",
+    "descripcion": "trotar 3 kilometros",
+    "finalizada": true
+  },
+  {
+    "nombre": "Leer",
+    "descripcion": "Leerme Un Libro",
+    "finalizada": true
+  },
+  {
+    "nombre": "programar",
+    "descripcion": "Seguir Aprendiendo Node Js",
+    "finalizada": true
+  }
+]
